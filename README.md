@@ -66,4 +66,4 @@ We welcome contributions! To participate:
 
 ## Support & Feedback
 
-For questions or feedback, please contact [https://discord.gg/uTcGdxhU5j
+For questions or feedback, please contact [https://discord.gg/mnUjVwduN6
